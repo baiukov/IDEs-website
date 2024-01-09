@@ -1,0 +1,8 @@
+@media print {
+	body {
+		background: none;
+	}
+	.nav-wrapper, .burger-menu, .video, .up-wrapper {
+		display: none;
+	}
+}
